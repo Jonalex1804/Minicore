@@ -1,4 +1,4 @@
-# MVCgit 
+# MVC
 
 Es una aplicación web desarrollada con Flask que sigue el patrón de arquitectura MVC (Modelo-Vista-Controlador). Su propósito principal es gestionar empleados, tareas y proyectos de forma eficiente. Entre sus funciones destacadas se encuentra la posibilidad de ver trabajos o tareas atrasadas dentro de un rango de fechas específico, además de filtrar tareas por estado y fecha, y realizar un seguimiento del progreso de los proyectos.
 ## Features
