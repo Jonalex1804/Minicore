@@ -21,7 +21,7 @@ Es una aplicación web desarrollada con Flask que sigue el patrón de arquitectu
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/minicore.git
+  git clone https://github.com/Jonalex1804/Minicore.git
     cd minicore
     ```
 
