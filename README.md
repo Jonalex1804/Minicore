@@ -1,7 +1,6 @@
-# MiniCore
+# MVCgit 
 
-MiniCore is a Flask-based web application for managing employees, tasks, and projects. It allows users to view overdue tasks within a specified date range, filter tasks based on status and date, and track the progress of various projects.
-
+Es una aplicación web desarrollada con Flask que sigue el patrón de arquitectura MVC (Modelo-Vista-Controlador). Su propósito principal es gestionar empleados, tareas y proyectos de forma eficiente. Entre sus funciones destacadas se encuentra la posibilidad de ver trabajos o tareas atrasadas dentro de un rango de fechas específico, además de filtrar tareas por estado y fecha, y realizar un seguimiento del progreso de los proyectos.
 ## Features
 
 - View all employees, tasks, and projects.
@@ -108,8 +107,17 @@ Displays a list of overdue tasks within a specified date range. Users can filter
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-## Acknowledgements
+## Repositorio GITHUB
+https://github.com/Jonalex1804/Minicore.git
 
-- [Flask](https://flask.palletsprojects.com/)
-- [SQLAlchemy](https://www.sqlalchemy.org/)
-- [Bootstrap](https://getbootstrap.com/)
+## Documentacion
+
+https://www.youtube.com/watch?v=xlxNzOqT16g
+https://www.youtube.com/watch?v=PmnIvR066WA
+
+## Video explicativo 
+https://udlaec.sharepoint.com/:v:/s/ubicua852/EW-n20vRK05Bl9CpXUsG3KQBDB5Ijdct-xZgPTG4JzZ5YQ?email=juan.leon%40udla.edu.ec&e=VEh6Ah&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+
+## Link del deploy 
+https://minicore-pnmf.onrender.com

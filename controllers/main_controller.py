@@ -14,6 +14,7 @@ def calculate_business_days(start_date, end_date):
 def index():
     employees = Employee.query.all()
     tasks = Task.query.all()
+    
     projects = Project.query.all()
     return render_template('base.html', employees=employees, tasks=tasks, projects=projects)
 
